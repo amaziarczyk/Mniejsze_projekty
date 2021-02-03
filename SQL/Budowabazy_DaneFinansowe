@@ -1,3 +1,6 @@
+-- Kod użyty do budowy docelowej bazy danych finansowych użytych w projekcie dotyczącym predykcji struktury kapitału
+
+
 select 
    s.Nazwa
   ,s.Sektor
